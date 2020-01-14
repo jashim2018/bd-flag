@@ -38,7 +38,7 @@ print
 print
 print
 print "\033[1m\033[32m\t\t \033[1m\033[31m<==\033[33m[\033[32m Author Info \033[33m]\033[31m==>\033[0m"
-.  time.sleep(3)
+   time.sleep(3)
 print
 print
 print
