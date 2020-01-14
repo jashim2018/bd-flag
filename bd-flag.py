@@ -40,7 +40,7 @@ def mnu():
 print
 print
 print
-mnu()
+
 
 
 
