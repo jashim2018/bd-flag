@@ -22,7 +22,7 @@ time.sleep(1)
 time.sleep(1)
 print "\033[1m\033[33m\n\tGithub    :  \033[32mhttp:\033[33m//\033[32mwww.github.com\033[33m/\033[32mtanjim750\033[0m"
 time.sleep(1)
-print "\033[1m\033[33m\n\tYoutube   : \033[32m \033[33mBD\033[32mAll \033[33mT\033[32mips\033[0m"
+print "\033[1m\033[33m\n\tYoutube   : \033[32m \033[33mBD \033[32mAll \033[33mT\033[32mips\033[0m"
 time.sleep(2)
 print
 print
