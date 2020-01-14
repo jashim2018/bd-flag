@@ -1,4 +1,4 @@
-# Name	:	IP Attack  . .. 
+# Name	:	IP Attack 
 # Code		:	python
 # Sec.Code	:	8h4i
 # Coder		: 	Sutariya Parixit
