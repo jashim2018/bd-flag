@@ -22,6 +22,6 @@ echo -e "\e[1m\e[32m ____                    _           _           _
 
 
 
-             echo -e "\e[1m\e[32m We \e[31mL😍ve \e[32mBangladesh"
+
        
 
