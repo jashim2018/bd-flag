@@ -55,18 +55,7 @@ print
 
 
 
-	print
-	print
-os.system("clear")
-print
-os.system( "bash logo.sh" )
-print
-def mnu():
-	print "\033[1m\033[32m[+]\033[36m We L😍ve Bangladesh"
-	
-print
-print
-mnu(
+
 	
 
 	
