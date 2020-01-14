@@ -24,3 +24,8 @@ apt install curl -y
 gem install lolcat
 clear
 toilet -f pagga "Done..!!" | lolcat
+
+echo
+echo -e "\e[1m\e[32m Developed by :\e[33m Tanjim Bubokor (8h4i)" 
+echo -e "\e[1m\e[32m Developed by :\e[33m Tanjim Abubokor (8h4i)"
+	
