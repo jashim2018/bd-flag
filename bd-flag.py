@@ -53,10 +53,9 @@ time.sleep(2)
 print
 print
 
+	
 	print
-	print
-	time.sleep(3)
-	print
+	
 os.system("clear")
 print
 os.system( "bash logo.sh" )
