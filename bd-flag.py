@@ -11,7 +11,7 @@ os.system("bash logo.sh")
 print
 print
 print
-print "\033[1m\033[32m\t\t \033[1m\033[31m<==\033[33m[\033[32m We \e[31mL😍ve Bangladesh \033[33m]\033[31m==>\033[0m"
+print "\033[1m\033[32m\t\t \033[1m\033[31m<==\033[33m[\033[32m We \033[31mL😍ve Bangladesh \033[33m]\033[31m==>\033[0m"
 time.sleep(3)
 print
 print
