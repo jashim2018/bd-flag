@@ -27,7 +27,7 @@ print
 print
 
 
-	print
+
 	print
 	time.sleep(3)
 	print
