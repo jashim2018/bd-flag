@@ -26,7 +26,7 @@ clear
 toilet -f pagga "Done..!!" | lolcat
 
 echo
-             echo -e "\e[1m\e[32m We \e[31mL😍ve \e[32mBangladesh"
+echo -e "\e[3m\e[32m We \e[31mL😍ve \e[32mBangladesh"
 echo -e "\e[1m\e[32m Developed by :\e[33m Tanjim Bubokor (8h4i)" 
 
 	
