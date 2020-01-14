@@ -54,6 +54,8 @@ print
 print
 
 
+print "\033[32m[+]\033[36m We love Bangladesh "
+
 
 
 
