@@ -16,7 +16,7 @@ time.sleep(3)
 print
 print
 print
-print "\033[1m\033[33m\n\tDeveloper : \033[32m \033[33mT\033[32manjim \033[33mA\033[32mbubokor\033[0m"
+print "\033[1m\033[33m\n\tDeveloper : \033[32m \033[33mB\033[32D \033[33mT\033[32meam\033[0m"
 time.sleep(1)
 
 time.sleep(1)
