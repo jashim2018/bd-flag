@@ -14,18 +14,30 @@ print
 print "\033[1m\033[32m\t\t \033[1m\033[31m<==\033[33m[\033[32m We \033[31mLove \033[32mBangladesh \033[33m]\033[31m==>\033[0m"
 time.sleep(3)
 print
-print
-print
-print "\033[1m\033[33m\n\tDeveloper : \033[32m \033[33mB\033[32mD \033[33mT\033[32meam\033[0m"
-time.sleep(1)
 
-time.sleep(1)
-print "\033[1m\033[33m\n\tGithub    :  \033[32mhttp:\033[33m//\033[32mwww.github.com\033[33m/\033[32mtanjim750\033[0m"
-time.sleep(1)
-print "\033[1m\033[33m\n\tYoutube   : \033[32m \033[33mBD \033[32mAll \033[33mT\033[32mips\033[0m"
-time.sleep(2)
-print
-print
+#usr/bin/bash
+clear
+bi='\033[34;1m' #biru
+i='\033[32;1m' #ijo
+pur='\033[35;1m' #purple
+cy='\033[36;1m' #cyan
+me='\033[31;1m' #merah
+pu='\033[37;1m' #putih
+ku='\033[33;1m' #kuning
+# Jangan Recode Ya gayn
+echo
+echo
+echo
+echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
+echo $i" |"$cy"     BANGLADESH DARK TERMUX ASSOCIATE"$i"         |"
+echo $i" |"$me"─────────────────────────────────────────────"$i"|"
+echo $i" |"$pu" AUTHOR :"$ku" [BD Termux Team]"$i"                   |"
+echo $i" |"$pu" FACEBOOK :"$ku" Tanjim Abubokor"$i"                   |"
+echo $i" |"$pu" Contack WhatsApp :"$ku" 01631596698"$i"             |"
+echo $i" |"$pu" Contack Gmail :"$ku" bdtermuxteam23@gmail.com"$i"      |"
+echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
+echo
+
 
 
 
