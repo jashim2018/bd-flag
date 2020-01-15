@@ -23,7 +23,7 @@ apt install ruby -y
 apt install curl -y
 gem install lolcat
 clear
-toilet -f pagga "BANGLADESH" | lolcat
+toilet -f pagga "Bangladesh" | lolcat
 
 echo
 echo -e "\e[1m\e[32m                            We \e[31mL😍ve \e[32mBangladesh"
