@@ -14,7 +14,7 @@ echo -e "\e[1m\e[32m████████████████████
    "
 gem install lolcat
 
-toilet -f pagga "BANGLADESH" | lolcat
+toilet -f pagga "Bangladesh" | lolcat
     
       
       
