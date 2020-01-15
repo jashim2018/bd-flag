@@ -27,6 +27,6 @@ toilet -f pagga "Bangladesh" | lolcat
 
 echo
 echo -e "\e[1m\e[32m                            We \e[31mL😍ve \e[32mBangladesh"
-ec
+
 
 	
