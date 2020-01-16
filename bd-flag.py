@@ -31,8 +31,15 @@ print "\033[1m\033[32m[+]\033[31m───────────────�
 time.sleep(1)
 print
 print
-     						
-
+						
+def menu_bot():
+	print '''
+   %sNumber                  INFO%s
+ ---------   ------------------------------------
+   [ 01 ]      Facebook Auto Tools
+   [ 02 ]      Facebook Hack [Phishing]
+   [ 03 ]      Facebook Hack [Bruteforce]
+'''%(\033[32m,\033[0m)
 
 
 
