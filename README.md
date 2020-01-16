@@ -1,6 +1,8 @@
 # bd-flag
 
-##Run Termux command 
+##Run Termux commands
+
+ 
 $ pkg update && pkg upgrade
 
 
@@ -8,6 +10,8 @@ $ pkg install python
 
 
 $ pkg install python2 -y
+
+
 
 
 $ pkg install git -y
