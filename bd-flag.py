@@ -70,10 +70,11 @@ then
 clear
 toilet -f pagga "W A I T" | lolcat
 sleep 1
-git clone  
-
-
-
-
+git clone https://github.com/tanjim750/Facebook-BruteForce.git
+cd Facebook-BruteForce    
+pip3 install requests bs4
+pip install mechanize
+python3 fb.py
+fi
 
 
