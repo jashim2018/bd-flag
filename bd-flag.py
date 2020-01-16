@@ -22,14 +22,14 @@ echo
     echo $i"       [•]"$me"────────────────────────────────────────────"$i"[•]"
 echo
 echo $i"        ███████████████████████████████████████"
-echo $i"        ██████████████"$me"◢███████◤"$i"████████████████"
-echo $i"        ████████████"$me"████████████"$i"███████████████"
-echo $i"        ████████████"$me"████████████"$i"███████████████"
-echo $i"        █████████████"$me"◢████████◤"$i"████████████████"
+echo $i"        ██████████████"$me"████████"$i"████████████████"
+echo $i"        ████████████"$me"████████████"$i"██████████████"
+echo $i"        ████████████"$me"████████████"$i"██████████████"
+echo $i"        ██████████████"$me"████████"$i"████████████████"
 echo $i"        ███████████████████████████████████████"
 
 
-toilet -f pagga "        BANGLADESH" | lolcat
+        toilet -f pagga "BANGLADESH" | lolcat
 
 
 echo
@@ -40,11 +40,11 @@ echo
       echo $ku"        ★"$cy"   |"$me"2"$cy"|"$pur"  Facebook Hack [Phishing]"$ku"          ★"
       echo $ku"        ★"$cy"   |"$me"3"$cy"|"$pur"  Facebook Hack [BruteForse]"$ku"        ★"
       echo $ku"        ★"$i"##########################################"$ku"★"
-echo
+
     
     
-echo $i"        [4] Install All Packages 
-echo $me"       [0] EXIT
+echo $i"        [4] Install All Packages" 
+echo $me"       [0] EXIT"
 echo
 
 echo $me"╔═══"$bi"["$i"BD"$bi"]"$me"══════"$bi"["$i""Termux Team""$bi"]"
