@@ -16,7 +16,19 @@ echo -e "\e[1m\e[32m████████████████████
 
 toilet -f pagga "Bangladesh" | lolcat
     
-      
+echo
+echo
+echo
+echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
+echo $i" |"$cy"     BANGLADESH DARK TERMUX ASSOCIATE"$i"         |"
+echo $i" |"$me"─────────────────────────────────────────────"$i"|"
+echo $i" |"$pu" AUTHOR :"$ku" [BD Termux Team]"$i"                   |"
+echo $i" |"$pu" FACEBOOK :"$ku" Tanjim Abubokor"$i"                   |"
+echo $i" |"$pu" Contack WhatsApp :"$ku" 01631596698"$i"             |"
+echo $i" |"$pu" Contack Gmail :"$ku" bdtermuxteam23@gmail.com"$i"      |"
+echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
+echo
+
       
 
                               
