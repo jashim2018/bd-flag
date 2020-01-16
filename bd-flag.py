@@ -46,7 +46,15 @@ echo $me"¦"
 read -p"└──# " pil
 
 
-
+if [ $pil = 1 ]
+then
+clear
+toilet -f pagga "W A I T" | lolcat
+sleep 1
+git clone https://github.com/ciku370/OSIF
+cd OSIF	
+pip2 install -r requirements.txt
+python2 osif.py
 	
 
 
