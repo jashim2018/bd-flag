@@ -17,7 +17,7 @@ print
 
 print
 print
-print "\033[1m\033[32m[\033[34m•\033[32m]───────────────────────────────────────────\033[1m\033[32m[\033[34m•\033[32m]\033[0m"
+
 time.sleep(1)												 
 print "\033[1m\033[32m\n\t| \033[35mBANGLADESH DARK TERMUX ASSOCIATE         \033[32m|\033[0m"
 time.sleep(1)												 
