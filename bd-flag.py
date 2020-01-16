@@ -39,14 +39,7 @@ echo $i"["$bi"•"$i"]"$me"─────────────────�
 echo
 echo $i"────────────────────────────────    ─────"
 echo $i"|"$me" 1"$i" |"$cy" Facebook Auto Tools        "$i"|"$i"       |"$cy" B"$i" |"
-echo $i"     |"$cy             ° auto reactions"$i"
-echo $i"     |"$cy             ° auto comment"$i"
-echo $i"     |"$cy             ° auto poke"$i"
-echo $i"     |"$cy             ° accept all friend requests"$i"
-echo $i"     |"$cy             ° delete all friends"$i"
-echo $i"     |"$cy             ° stop following all friends"$i"
-echo $i"     |"$cy             ° delete all photo albums"$i"
-echo $i"     |"$cy             ° stop following all friends"$i"
+
 
 echo $i"|"$me" 2"$i" |"$cy" Facebook Hack [Phishing]   "$i"|"$i"       |"$cy" E"$i" |"
 echo $i"|"$me" 3"$i" |"$cy" Facebook Hack [BruteForce] "$i"|"$i"       |"$cy" N"$i" |"
