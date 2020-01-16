@@ -12,21 +12,21 @@ ku='\033[33;1m' #kuning
 echo
 echo
 echo
-    echo $i"[•]"$me"─────────────────────────────────────────── "$me"[•]"
-     echo $i"|"$cy"        BANGLADESH DARK TERMUX ASSOCIATE        "$i"|"
-     echo $i"|"$me"─────────────────────────────────────────────   "$i"|"
-     echo $i"|"$pu"    Auther :"$bi" BD Termux Team                     "$i"|"
-     echo $i"|"$pu"    Facebook :"$bi" Tanjim Abubokor                  "$i"|"
-     echo $i"|"$pu"    Contact WhatsApp :"$bi" 01631596698              "$i"|"
-     echo $i"|"$pu"   Contact Gmail :"$bi" bdtermuxteam23@gmail.com     "$i"|"
-    echo $i"[•]"$me"────────────────────────────────────────────."$i"[•]"
+    echo $i"       [•]"$me"─────────────────────────────────────────── "$i"[•]"
+     echo $i"        |"$cy"        BANGLADESH DARK TERMUX ASSOCIATE        "$i"|"
+     echo $i"        |"$me"─────────────────────────────────────────────   "$i"|"
+     echo $i"        |"$pu"    Auther :"$bi" BD Termux Team                     "$i"|"
+     echo $i"        |"$pu"    Facebook :"$bi" Tanjim Abubokor                  "$i"|"
+     echo $i"        |"$pu"    Contact WhatsApp :"$bi" 01631596698              "$i"|"
+     echo $i"        |"$pu"   Contact Gmail :"$bi" bdtermuxteam23@gmail.com     "$i"|"
+    echo $i"       [•]"$me"────────────────────────────────────────────."$i"[•]"
 echo
-echo $i"██████████████████████████████████████"
-echo $i"███████████████"$me"███████"$i"████████████████"
-echo $i"████████████"$me"████████████"$i"██████████████"
-echo $i"████████████"$me"████████████"$i"██████████████"
-echo $i"██████████████"$me"████████"$i"████████████████"
-echo $i"██████████████████████████████████████"
+echo $i"        ██████████████████████████████████████"
+echo $i"        ███████████████"$me"███████"$i"████████████████"
+echo $i"        ████████████"$me"████████████"$i"██████████████"
+echo $i"        ████████████"$me"████████████"$i"██████████████"
+echo $i"        ██████████████"$me"████████"$i"████████████████"
+echo $i"        ██████████████████████████████████████"
 
 
 toilet -f pagga "BANGLADESH" | lolcat
@@ -35,16 +35,16 @@ toilet -f pagga "BANGLADESH" | lolcat
 echo
 echo
 echo
-      echo $ku"★"$i"##########################################"$ku"★"
-      echo $ku"★"$cy"   |"$me"1"$cy"|"$pur"  Facebook Auto Tools"$ku"               ★"
-      echo $ku"★"$cy"   |"$me"2"$cy"|"$pur"  Facebook Hack [Phishing]"$ku"          ★"
-      echo $ku"★"$cy"   |"$me"3"$cy"|"$pur"  Facebook Hack [BruteForse]"$ku"        ★"
-      echo $ku"★"$i"##########################################"$ku"★"
+      echo $ku"        ★"$i"##########################################"$ku"★"
+      echo $ku"        ★"$cy"   |"$me"1"$cy"|"$pur"  Facebook Auto Tools"$ku"               ★"
+      echo $ku"        ★"$cy"   |"$me"2"$cy"|"$pur"  Facebook Hack [Phishing]"$ku"          ★"
+      echo $ku"        ★"$cy"   |"$me"3"$cy"|"$pur"  Facebook Hack [BruteForse]"$ku"        ★"
+      echo $ku"        ★"$i"##########################################"$ku"★"
 
     
     
 echo $i"        [5] Install All Packages 
-echo $m"        [0] EXIT
+echo $me"       [0] EXIT
 echo
 
 echo $me"┌==="$bi"["$i"BD"$bi"]"$me"======"$bi"["$i""Termux Team""$bi"]"
