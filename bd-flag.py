@@ -39,7 +39,7 @@ def menu_bot():
    [ 01 ]      Facebook Auto Tools
    [ 02 ]      Facebook Hack [Phishing]
    [ 03 ]      Facebook Hack [Bruteforce]
-'''%(\033[32m,\033[0m)
+'''%(\033[32m,\033[0m")
 
 
 
