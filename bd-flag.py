@@ -13,13 +13,13 @@ echo
 echo
 echo
     echo $i"       [•]"$me"─────────────────────────────────────────── "$i"[•]"
-     echo $i"        |"$cy"        BANGLADESH DARK TERMUX ASSOCIATE        "$i"|"
-     echo $i"        |"$me"─────────────────────────────────────────────   "$i"|"
-     echo $i"        |"$pu"    Auther :"$bi" BD Termux Team                     "$i"|"
-     echo $i"        |"$pu"    Facebook :"$bi" Tanjim Abubokor                  "$i"|"
-     echo $i"        |"$pu"    Contact WhatsApp :"$bi" 01631596698              "$i"|"
-     echo $i"        |"$pu"   Contact Gmail :"$bi" bdtermuxteam23@gmail.com     "$i"|"
-    echo $i"       [•]"$me"────────────────────────────────────────────."$i"[•]"
+     echo $i"        |"$cy"        BANGLADESH DARK TERMUX ASSOCIATE      "$i"|"
+     echo $i"        |"$me"───────────────────────────────────────────── "$i"|"
+     echo $i"        |"$pu"    Auther :"$bi" BD Termux Team                   "$i"|"
+     echo $i"        |"$pu"    Facebook :"$bi" Tanjim Abubokor                "$i"|"
+     echo $i"        |"$pu"    Contact WhatsApp :"$bi" 01631596698            "$i"|"
+     echo $i"        |"$pu"   Contact Gmail :"$bi" bdtermuxteam23@gmail.com   "$i"|"
+    echo $i"       [•]"$me"────────────────────────────────────────────"$i"[•]"
 echo
 echo $i"        ██████████████████████████████████████"
 echo $i"        ███████████████"$me"███████"$i"████████████████"
