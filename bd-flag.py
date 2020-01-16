@@ -111,7 +111,7 @@ toilet -f pagga "E X I T" | lolcat
 sleep 2
 echo $cy" Thanks for support us "
 sleep 2
-Exit
+exit
 fi
 
 
