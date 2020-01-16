@@ -43,7 +43,7 @@ echo
 echo
     
     
-echo $i"        [5] Install All Packages 
+echo $i"        [4] Install All Packages 
 echo $me"       [0] EXIT
 
 
