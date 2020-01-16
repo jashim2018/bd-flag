@@ -83,7 +83,7 @@ pip install mechanize
 python3 fb.py
 fi
 
-if [ $pil = 5 ]
+if [ $pil = 4 ]
 then
 clear
 apt update && apt upgrade
@@ -104,7 +104,7 @@ toilet -f pagga "S U C C E S S" | lolcat
 fi
 
 
-if [ $pil = 19 ]
+if [ $pil = 0 ]
 then
 clear
 toilet -f pagga "E X I T" | lolcat
