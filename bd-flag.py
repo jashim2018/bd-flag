@@ -36,7 +36,9 @@ print "\033[1m\033[32m\n\tprint "\033[1m\033[32m[\033\34m•\033[32m]───�
 time.sleep(2)
 print
 print     
-print
+
+
+print														      
 print
 print
 print "\033[1m\033[33m\n\tDeveloper : \033[32m \033[33mS\033[32mutariya \033[33mP\033[32marixit\033[0m"
