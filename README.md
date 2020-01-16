@@ -35,7 +35,7 @@ $ sh bd-flag.py
 
 ## Screenshots 
 
-![CAPTURE 1](
+![CAPTURE 1](https://github.com/tanjim750/bd-flag/blob/master/Screenshot2.jpg)
 
 ![CAPTURE 1](https://github.com/tanjim750/bd-flag/blob/master/Screenshot1.jpg)
 
