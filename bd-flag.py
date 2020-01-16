@@ -40,7 +40,13 @@ echo
       echo $ku"★"$cy"   |"$me"2"$cy"|"$pur"  Facebook Hack [Phishing]"$ku"          ★"
       echo $ku"★"$cy"   |"$me"3"$cy"|"$pur"  Facebook Hack [BruteForse]"$ku"        ★"
       echo $ku"★"$i"##########################################"$ku"★"
+
+    
+    
+echo $i"        [5] Install All Packages 
+echo $m"        [0] EXIT
 echo
+
 echo $me"┌==="$bi"["$i"BD"$bi"]"$me"======"$bi"["$i""Termux Team""$bi"]"
 echo $me"¦"
 read -p"└─==> " pil
