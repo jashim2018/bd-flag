@@ -18,11 +18,11 @@ print
 print
 print "\033[1m\033[32m\n\t[•]\033[31m─────────────────────────────────────────── \033[32m[•]\033[0m"
 time.sleep(1)
-print "\033[1m\033[32m\n\t|           \033[36mBANGLADESH DARK TERMUX ASSOCIATE           \033[32m|\033[0m"
+print "\033[1m\033[32m\n\t|           \033[31mBANGLADESH DARK TERMUX ASSOCIATE           \033[32m|\033[0m"
 time.sleep(1)	
 print "\033[1m\033[32m\n\t|\033[31m──────────────────────────────────────────────\033[32m|
 time.sleep(1)	
-print "\033[1m\033[32m\n\t|                \033[37mAuther : \033[34mBD Termux Team               \033[32m|\033[0m"
+print "\033[1m\033[32m\n\t|                \033[32mAuther : \033[33mBD Termux Team               \033[32m|\033[0m"
 time.sleep(1)	
 
 print
