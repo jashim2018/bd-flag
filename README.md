@@ -25,8 +25,8 @@ $ cd bd-flag
 
 $ chmod +x bd-flag
 
-EOF
-echo -e \e[32m$ sh bd-flag.py\e[0m
+
+$ sh bd-flag.py
 
 
 
