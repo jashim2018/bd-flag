@@ -7,7 +7,7 @@ print
 print
 print
 os.system("clear")
-os.system("bash logo.sh")
+os.system("bash logo.jpeg")
 print
 print
 print
