@@ -22,6 +22,7 @@ echo $i" |"$pu" Contack WhatsApp :"$ku" 01631596698"$i"             |"
 echo $i" |"$pu" Contack Gmail :"$ku" bdtermuxteam23@gmail.com"$i"      |"
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo
+echo $i"                            We "$me"L😍ve "$i"Bangladesh"
 
 
 	
