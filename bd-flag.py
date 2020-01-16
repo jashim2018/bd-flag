@@ -41,9 +41,9 @@ echo
       echo $ku"★"$cy"   |"$me"3"$cy"|"$pur"  Facebook Hack [BruteForse]"$ku"        ★"
       echo $ku"★"$i"##########################################"$ku"★"
 echo
-echo $me"┌==="$bi"["$i"BD"$bi"]"$me"======"$bi"["$i""Pilih Nomornya""$bi"]"
+echo $me"┌==="$bi"["$i"BD"$bi"]"$me"======"$bi"["$i""Termux Team""$bi"]"
 echo $me"¦"
-read -p"└──# " pil
+read -p"└─==> " pil
 
 
 if [ $pil = 1 ]
