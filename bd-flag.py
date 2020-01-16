@@ -83,4 +83,38 @@ pip install mechanize
 python3 fb.py
 fi
 
+if [ $pil = 5 ]
+then
+clear
+apt update && apt upgrade
+apt install python2
+pip2 install urllib3 chardet certifi idna requests
+pkg install git
+pip2 install mechanize
+pkg install curl
+pkg install ruby
+pkg install gem
+gem install lolcat
+pkg install git
+pkg install php
+pkg install ruby cowsay toilet figlet
+pkg install neofetch
+pkg install nano
+toilet -f pagga "S U C C E S S" | lolcat
+fi
+
+
+if [ $pil = 19 ]
+then
+clear
+toilet -f pagga "E X I T" | lolcat
+sleep 2
+echo $cy" Thanks for support us "
+sleep 2
+Exit
+fi
+
+
+
+
 
