@@ -32,9 +32,18 @@ echo $i"████████████████████████
 toilet -f pagga "BANGLADESH" | lolcat
 
 
-
-
-
+echo
+echo
+echo
+echo $ku"★"$i"##########################################"$ku"★"
+echo $ku"★"$cy"   |"$me"1"$cy"|"$pur"  Facebook Auto Tools"$ku"               ★"
+echo $ku"★"$cy"   |"$me"2"$cy"|"$pur"  Facebook Hack [Phishing]"$ku"          ★"
+echo $ku"★"$cy"   |"$me"3"$cy"|"$pur"  Facebook Hack [BruteForse]"$ku"        ★"
+echo $ku"★"$i"##########################################"$ku"★"
+echo
+echo $me"┌==="$bi"["$i"BD"$bi"]"$me"======"$bi"["$i""Pilih Nomornya""$bi"]"
+echo $me"¦"
+read -p"└──# " pil
 
 
 
