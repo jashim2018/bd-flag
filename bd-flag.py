@@ -45,7 +45,7 @@ echo
     
 echo $i"        [4] Install All Packages 
 echo $me"       [0] EXIT
-
+echo
 
 echo $me"╔═══"$bi"["$i"BD"$bi"]"$me"══════"$bi"["$i""Termux Team""$bi"]"
 echo $me"║"
