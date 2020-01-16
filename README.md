@@ -2,7 +2,7 @@
 
 ## Run Termux commands
 
- 
+
 $ pkg update && pkg upgrade
 
 
@@ -38,4 +38,12 @@ $ sh bd-flag.py
 ![CAPTURE 1](https://github.com/tanjim750/bd-flag/blob/master/Screenshot2.jpg)
 
 ![CAPTURE 1](https://github.com/tanjim750/bd-flag/blob/master/Screenshot1.jpg)
+
+
+
+
+## Please do not spam it, It's Just For Knowledge
+
+
+
 
