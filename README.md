@@ -1,6 +1,6 @@
 # bd-flag
 
-##Run Termux commands
+## Run Termux commands
 
  
 $ pkg update && pkg upgrade
