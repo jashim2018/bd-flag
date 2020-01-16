@@ -47,9 +47,9 @@ echo $i"        [4] Install All Packages
 echo $me"       [0] EXIT
 
 
-echo $me"┌==="$bi"["$i"BD"$bi"]"$me"======"$bi"["$i""Termux Team""$bi"]"
-echo $me"¦"
-read -p"└─==> " pil
+echo $me"╔═══"$bi"["$i"BD"$bi"]"$me"══════"$bi"["$i""Termux Team""$bi"]"
+echo $me"║"
+read -p"╚═══➣➣ " pil
 
 
 if [ $pil = 1 ]
