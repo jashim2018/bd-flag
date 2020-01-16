@@ -57,7 +57,7 @@ pip2 install -r requirements.txt
 python2 osif.py
 fi
 
-if [ $pil = 1 ]
+if [ $pil = 2 ]
 then
 clear
 toilet -f pagga "W A I T" | lolcat
