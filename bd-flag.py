@@ -31,7 +31,7 @@ print "\033[1m\033[32m\n\t| \033[34mContack WhatsApp : \033[36m01631596698      
 time.sleep(1)												 
 print "\033[1m\033[32m\n\t| \033[34mContack Gmail : \033[36mbdtermuxteam23@gmail.com          \033[32m|"
 time.sleep(1)												 
-print "\033[1m\033[32m\n\tprint "\033[1m\033[32m[\033\34m•\033[32m]───────────────────────────────────────────\033[1m\033[32m[\033\34m•\033\32m]\033[0m "
+print "\033[1m\033[32m\n\tprint "\033[1m\033[32m[\033\34m•\033[32m]───────────────────────────────────────────[•]\033[0m "
 time.sleep(2)
 print
 print     
@@ -40,10 +40,5 @@ print
 
 
 	
-
-
-print "\033[1m\033[32m\n\tprint "\
-
-
 
 
