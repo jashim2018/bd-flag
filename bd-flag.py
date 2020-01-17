@@ -93,7 +93,16 @@ echo $cy"░█░█░░░█▀█░░░▀█▀░░░▀█▀
 ░▀░▀░░░▀░▀░░░▀▀▀░░░░▀░"
 echo
 sleep 1
-pkg install git python php curl openssh grep && git clone -b Termux-Support-Branch https://github.com/DarkSecDevelopers/HiddenEye.git && chmod 777 HiddenEye && cd HiddenEye && pip install -r requirements.txt && pip install requests && python HiddenEye.py 
+pkg install python3
+pkg install pip
+pkg install pyhon
+pkg install git python php curl openssh grep
+git clone -b Termux-Support-Branch https://github.com/DarkSecDevelopers/HiddenEye.git 
+chmod 777 HiddenEye 
+cd HiddenEye 
+pip install -r requirements.txt 
+pip install requests 
+python HiddenEye.py 
 fi
 
 if [ $pil = 3 ]
