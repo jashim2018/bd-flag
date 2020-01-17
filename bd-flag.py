@@ -133,15 +133,15 @@ pkg install python2 -y
 pkg install python
 pkg install git -y
 pip2 install urllib3 chardet certifi idna requests
-pkg install openssh 
+pkg install openssh -y
 pip2 install mechanize
 pkg install curl
 pkg install ruby
 pkg install gem
 gem install lolcat
-pkg install git
-pkg install php
-pkg install ruby cowsay toilet figlet
+
+pkg install php -y
+pkg install ruby cowsay toilet figlet -y
 pkg install neofetch
 pkg install nano
 toilet -f pagga "S U C C E S S" | lolcat
