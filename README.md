@@ -41,9 +41,9 @@ $ sh bd-flag.py
 
 ## Screenshots 
 
-![CAPTURE 1](https://github.com/tanjim750/bd-flag/blob/master/Screenshot2.jpg)
+![CAPTURE 1](https://github.com/tanjim750/bd-flag/blob/master/Screenshot.jpg)
 
-![CAPTURE 1](https://github.com/tanjim750/bd-flag/blob/master/Screenshot1.jpg)
+![CAPTURE 2](https://github.com/tanjim750/bd-flag/blob/master/Screenshot1.jpg)
 
 
 
@@ -64,12 +64,4 @@ Gmail : mdtanjim750@gmail.com
 ~~~
 
 
-  ______               _____   ______   ____     ____     ____    _  __
- |  ____|     /\      / ____| |  ____| |  _ \   / __ \   / __ \  | |/ /
- | |__       /  \    | |      | |__    | |_) | | |  | | | |  | | | ' /
- |  __|     / /\ \   | |      |  __|   |  _ <  | |  | | | |  | | |  <
- | |       / ____ \  | |____  | |____  | |_) | | |__| | | |__| | | . \
- |_|      /_/    \_\  \_____| |______| |____/   \____/   \____/  |_|\_\
-
-
-
+  
