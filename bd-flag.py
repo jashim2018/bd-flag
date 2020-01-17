@@ -109,7 +109,16 @@ sleep 2
 exit
 fi
 
-
+if [ $pil = 4 ]
+then
+clear
+toilet -f pagga "W A I T" | lolcat
+sleep 1
+git clone https://github.com/IlayTamvan/Report 
+cd Report
+unzip Report.zip
+python2 Report.py
+fi
 
 
 
