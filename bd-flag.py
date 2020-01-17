@@ -106,7 +106,7 @@ fi
 if [ $pil = 0 ]
 then
 clear
-toilet -f pagga "E X I T" | lolcat
+figlet -f slant "E X I T"|lolcat
 sleep 2
 echo $cy" Thanks for support us "
 sleep 2
