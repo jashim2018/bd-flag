@@ -68,7 +68,13 @@ read -p"╚═══➣➣ " pil
 if [ $pil = 1 ]
 then
 clear
-toilet -f pagga "W A I T" | lolcat
+echo
+echo
+echo
+echo $pur"░█░█░░░█▀█░░░▀█▀░░░▀█▀
+░█▄█░░░█▀█░░░░█░░░░░█░
+░▀░▀░░░▀░▀░░░▀▀▀░░░░▀░"
+echo
 sleep 1
 git clone https://github.com/ciku370/OSIF
 cd OSIF	
@@ -79,7 +85,13 @@ fi
 if [ $pil = 2 ]
 then
 clear
-toilet -f pagga "W A I T" | lolcat
+echo
+echo
+echo
+"░█░█░░░█▀█░░░▀█▀░░░▀█▀
+░█▄█░░░█▀█░░░░█░░░░░█░
+░▀░▀░░░▀░▀░░░▀▀▀░░░░▀░"
+echo
 sleep 1
 pkg install git python php curl openssh grep && git clone -b Termux-Support-Branch https://github.com/DarkSecDevelopers/HiddenEye.git && chmod 777 HiddenEye && cd HiddenEye && pip install -r requirements.txt && pip install requests && python HiddenEye.py 
 fi
@@ -87,7 +99,13 @@ fi
 if [ $pil = 3 ]
 then
 clear
-toilet -f pagga "W A I T" | lolcat
+echo
+echo
+echo
+echo $i"░█░█░░░█▀█░░░▀█▀░░░▀█▀
+░█▄█░░░█▀█░░░░█░░░░░█░
+░▀░▀░░░▀░▀░░░▀▀▀░░░░▀░"
+echo
 sleep 1
 git clone https://github.com/tanjim750/Facebook-BruteForce.git
 cd Facebook-BruteForce    
@@ -124,7 +142,15 @@ fi
 if [ $pil = 0 ]
 then
 clear
-figlet -f slant "E X I T"|lolcat
+echo
+echo
+echo
+echo $me"    ______   _  __    ____   ______
+   / ____/  | |/ /   /  _/  /_  __/
+  / __/     |   /    / /     / /
+ / /___    /   |   _/ /     / /
+/_____/   /_/|_|  /___/    /_/"
+echo
 sleep 2
 echo $cy" Thanks for support us "
 sleep 2
@@ -134,7 +160,13 @@ fi
 if [ $pil = 4 ]
 then
 clear
-toilet -f pagga "W A I T" | lolcat
+echo
+echo
+echo
+echo $bi"░█░█░░░█▀█░░░▀█▀░░░▀█▀
+░█▄█░░░█▀█░░░░█░░░░░█░
+░▀░▀░░░▀░▀░░░▀▀▀░░░░▀░"
+echo
 sleep 1
 git clone https://github.com/IlayTamvan/Report 
 cd Report
