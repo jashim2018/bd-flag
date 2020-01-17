@@ -93,9 +93,9 @@ echo $cy"░█░█░░░█▀█░░░▀█▀░░░▀█▀
 ░▀░▀░░░▀░▀░░░▀▀▀░░░░▀░"
 echo
 sleep 1
-pkg install python3
-pkg install pip
-pkg install pyhon
+pkg install python3 -y
+pkg install pip -y
+pkg install pyhon -y
 pkg install git python php curl openssh grep
 git clone -b Termux-Support-Branch https://github.com/DarkSecDevelopers/HiddenEye.git 
 chmod 777 HiddenEye 
@@ -127,7 +127,7 @@ if [ $pil = 5 ]
 then
 clear
 apt update && apt upgrade
-apt install python2
+apt install python2 -y
 pkg install python3
 pkg install python2 -y
 pkg install python
