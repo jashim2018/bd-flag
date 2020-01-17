@@ -21,15 +21,9 @@ echo
      echo $i"        |"$pu"   Contact Gmail :"$bi" bdtermuxteam23@gmail.com   "$i"|"
     echo $i"       [•]"$me"────────────────────────────────────────────"$i"[•]"
 echo
-echo $i"███████████████████████████████████████"
-echo $i"██████████████"$me"████████"$i"█████████████████"
-echo $i"████████████"$me"████████████"$i"███████████████"
-echo $i"████████████"$me"████████████"$i"███████████████"
-echo $i"██████████████"$me"████████"$i"█████████████████"
-echo $i"███████████████████████████████████████"
 
 
-        toilet -f pagga "BANGLADESH" | lolcat
+        toilet -f pagga "F A C E B O O K" | lolcat
 
 
 echo
@@ -39,11 +33,12 @@ echo
       echo $ku"        ★"$cy"   |"$me"1"$cy"|"$pur"  Facebook Auto Tools"$ku"               ★"
       echo $ku"        ★"$cy"   |"$me"2"$cy"|"$pur"  Facebook Hack [Phishing]"$ku"          ★"
       echo $ku"        ★"$cy"   |"$me"3"$cy"|"$pur"  Facebook Hack [BruteForse]"$ku"        ★"
+      echo $ku"        ★"$cy"   |"$me"4"$cy"|"$pur"  Facebook Auto Report"$ku"              ★"
       echo $ku"        ★"$i"##########################################"$ku"★"
 
     
     
-echo $i"        [4] Install All Packages" 
+echo $i"        [5] Install All Packages" 
 echo $me"        [0] EXIT"
 echo
 
@@ -113,6 +108,7 @@ echo $cy" Thanks for support us "
 sleep 2
 exit
 fi
+
 
 
 
