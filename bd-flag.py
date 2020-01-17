@@ -43,8 +43,8 @@ echo
 echo
       echo $ku"        ★"$i"##########################################"$ku"★"
       echo $ku"        ★"$cy"   |"$me"1"$cy"|"$pur"  Facebook Auto Tools"$ku"               ★"
-      echo $ku"        ★"$cy"   |"$me"2"$cy"|"$pur"  Facebook Hack [Phishing]"$ku"          ★"
-      echo $ku"        ★"$cy"   |"$me"3"$cy"|"$pur"  Facebook Hack [BruteForse]"$ku"        ★"
+      echo $ku"        ★"$cy"   |"$me"2"$cy"|"$pur"  Facebook Hack"$i" [Phishing]"$ku"          ★"
+      echo $ku"        ★"$cy"   |"$me"3"$cy"|"$pur"  Facebook Hack"$i" [BruteForse]"$ku"        ★"
       echo $ku"        ★"$cy"   |"$me"4"$cy"|"$pur"  Facebook Auto Report"$ku"              ★"
       echo $ku"        ★"$i"##########################################"$ku"★"
 echo
