@@ -28,7 +28,7 @@ $ cd bd-flag
 ~~~
 
 ~~~
-$ chmod +x bd-flag
+$ chmod +x bd-flag.py
 ~~~
 
 ~~~
