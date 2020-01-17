@@ -78,7 +78,7 @@ pip install mechanize
 python3 fb.py
 fi
 
-if [ $pil = 4 ]
+if [ $pil = 5 ]
 then
 clear
 apt update && apt upgrade
