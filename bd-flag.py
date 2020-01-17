@@ -83,8 +83,12 @@ then
 clear
 apt update && apt upgrade
 apt install python2
+pkg install python3
+pkg install python2 -y
+pkg install python
+pkg install git -y
 pip2 install urllib3 chardet certifi idna requests
-pkg install git
+pkg install openssh 
 pip2 install mechanize
 pkg install curl
 pkg install ruby
