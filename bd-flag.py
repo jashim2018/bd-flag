@@ -24,6 +24,17 @@ echo
 echo
 
 
+echo
+echo
+echo
+echo $cy"       ░█▀▀"$i"░░░█▀█░░░"$me"█▀▀░░░"$ku"█▀▀░░░"$cy"█▀▄░░░"$i"█▀█░░░"$bi"█▀█░░░"$pur"█░█"
+echo $bi"       ░█▀▀░░░"$cy"█▀█░░░█░░░░░"$bi"█▀▀░░░"$i"█"$cy"▀▄░░░█░"$me"█░░░█░█░░░"$ku"█▀▄"
+echo $pur"       ░▀░░░░░▀░▀░░░▀"$bi"▀▀░░░▀▀"$i"▀░░░▀▀░░░░"$me"▀▀▀░░░"$cy"▀▀▀░░░▀░"$bi"▀"
+echo
+
+
+
+
 
 
 
@@ -36,12 +47,18 @@ echo
       echo $ku"        ★"$cy"   |"$me"3"$cy"|"$pur"  Facebook Hack [BruteForse]"$ku"        ★"
       echo $ku"        ★"$cy"   |"$me"4"$cy"|"$pur"  Facebook Auto Report"$ku"              ★"
       echo $ku"        ★"$i"##########################################"$ku"★"
+echo
+    
 
-    
-    
+
+echo
+echo
+echo
 echo $i"        [5] Install All Packages" 
 echo $me"        [0] EXIT"
 echo
+    
+
 
 echo $me"╔═══"$bi"["$i"BD"$bi"]"$me"══════"$bi"["$i""Termux Team""$bi"]"
 echo $me"║"
